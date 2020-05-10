@@ -1,3 +1,3 @@
-dsgroup 
+# dsgroup 
 
-Python sandbox
+Sandbox for standard python, pandas and sklearn
